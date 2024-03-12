@@ -1,4 +1,4 @@
-# Philosophers Project Overview
+# Philosophers Project
 
 
 
@@ -7,7 +7,7 @@
 ## Introduction
 
 The Philosophers project at 42 School is an implementation challenge inspired by the famous Dining Philosophers problem in computer science, which demonstrates synchronization issues and techniques for resolving them. This project aims to practice and understand multithreading, mutexes, semaphores, and processes within a programming context. The task is to simulate a scenario where philosophers sit at a round table, doing one of three things: eating, thinking, or sleeping.
-
+![Philos](https://media.geeksforgeeks.org/wp-content/uploads/20231107114729/dining_philosopher_problem.png)
 ## Technical Stack
 
 - **Language**: C
@@ -37,7 +37,7 @@ The implementation involves creating a simulation where multiple philosopher thr
 
 ## How to Use
 
-1. **Clone the Repository**: `git clone https://github.com/Gabri177?tab=repositories`
+1. **Clone the Repository**: `git clone git@github.com:Gabri177/philosopher.git`
 2. **Compile the Program**: Use the provided Makefile, typically with a command like `make`.
 3. **Run the Simulation**: Execute the binary with the required arguments (number of philosophers, time to die, time to eat, time to sleep, [optional] number of times each philosopher must eat).
 
