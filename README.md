@@ -9,7 +9,7 @@
 The Philosophers project at 42 School is an implementation challenge inspired by the famous Dining Philosophers problem in computer science, which demonstrates synchronization issues and techniques for resolving them. This project aims to practice and understand multithreading, mutexes, semaphores, and processes within a programming context. The task is to simulate a scenario where philosophers sit at a round table, doing one of three things: eating, thinking, or sleeping.
 
 
-![Philos](https://media.geeksforgeeks.org/wp-content/uploads/20231107114729/dining_philosopher_problem.png)
+![Philos]([https://media.geeksforgeeks.org/wp-content/uploads/20231107114729/dining_philosopher_problem.png](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26a9a5cb-690c-4057-80ce-91d3cf333307_952x848.png))
 ## Technical Stack
 
 - **Language**: C
